@@ -1,0 +1,113 @@
+[
+	{"tags": ["start_conversation"],
+         "question": "Hi there",
+         "answer": "Hello, I'm sure you have medical questions",
+         "context": [""]
+        },
+	{"tags": ["start_conversation"],
+        "question": "Good day",
+         "answer":"Hi there, how can I help?",
+         "context": [""]
+        },
+	{"tags":[ "start_conversation"],
+          "question": "Hello",
+        "answer": "Happy to have you here",
+         "context": [""]
+        },
+	{"tags": ["start_conversation"],
+         "question": "Hey",
+       "answer": "Good to see you again",
+         "context": [""]
+        },
+
+	{"tags": ["what_are_you"],
+          "question": "What is your name?",
+        "answer": "Hi, I'm Blythe, your Virtual Health Assistant",
+         "context": [""]
+        },
+	{"tags": ["what_are_you"],
+          "question":"Your name pls?",
+        "answer": "Call me Blythe",
+         "context": [""]
+        },
+	{"tags":["what_are_you"],
+          "question":  "who are you?",
+      "answer": "I'm Blythe, your Virtual Health Assistant ",
+         "context": [""]
+        },
+        {"tags": ["end_conversation"],
+          "question": "Bye", 
+         "answer": "Have a lovely day!", 
+         "context": [""]
+        },
+	  {"tags": "end_conversation",
+          "question": "See you later", 
+        "answer": "Yeah, see you later",
+         "context": [""]
+        },
+	  {"tags": ["end_conversation"],
+          "question":  "Goodbye", 
+         "answer": "Have a nice time", 
+         "context": [""]
+        },
+	  {"tags": ["end_conversation"],
+          "question": "Till next time",
+         "answer": "Enjoy your day!",
+         "context": [""]
+        },
+        {"tags": ["thanks"],
+          "question": "Thanks",
+         "answer": "Any time!",
+         "context": [""]
+        },
+	 {"tags": ["thanks"],
+         "question": "Thank you",
+         "answer": "My pleasure",
+         "context": [""]
+        },
+	 {"tags": ["thanks"],
+          "question": "Awesome, thanks",
+        "answer": "Happy to help!", 
+         "context": [""]
+        },
+	 {"tags": ["thanks"],
+          "question": "That's helpful", 
+        "answer": "You're welcome",
+         "context": [""]
+        },
+        {"tags": ["confused"],
+         "question": "",
+         "answer": "I'm not sure I understand",
+         "context": [""]
+        },
+	 {"tags": ["confused"],
+         "question": "",
+         "answer": "Sorry, kindly rephrase the question",
+         "context": [""]
+        },
+	 {"tags": ["confused"],
+         "question": "",
+         "answer": "Please give me more information",
+         "context": [""]
+        },
+	 {"tags": ["confused"],
+          "question": "",
+         "answer":"Sorry, I can't understand you",
+         "context": [""]
+        },
+        {"tags":[ "options"],
+          "question": "How can you help me?",
+        "answer": "I can give you answers to all questions regards medecine",
+         "context": [""]
+        },
+    	{"tags": [ "options"],
+         "question":"How can you be helpful?", 
+        "answer": "I can help you answer your medical questions",
+         "context": [""]
+        },
+   	 {"tags": [ "options"],
+          "question": "What support do you offer?",
+         "answer": "I can help you with your medical questions",
+         "context": [""]
+        }  
+]
