@@ -1,0 +1,3 @@
+## Usage of Google Cloud Storage and VM instance
+
+This project uses Google Cloud Storage to store large data files and a VM instance for data processing. The data is uploaded to Google Cloud Storage using the `gsutil` command-line tool and the processing is done on the VM instance using Python and Jupyter notebooks. The data is then downloaded back to the local machine for analysis and visualization. The private key associated with the VM instance is stored securely and used to authenticate Git pushes to the instance.
