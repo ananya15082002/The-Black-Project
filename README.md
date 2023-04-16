@@ -18,3 +18,5 @@ The model also includes functions for speech recognition and text-to-speech conv
 #Results:
 The model trains a neural network using the training data and achieves a reasonable accuracy on the test data. It also provides a function to predict the intent of user inputs and achieves reasonable accuracy on the test data and produces the resonable output. The model also includes functions for speech recognition and text-to-speech conversion, allowing the user to interact with the model through speech.
 ![image](https://user-images.githubusercontent.com/117035260/232274650-1a65abab-bb49-480e-814b-ef84d63cf850.png)
+![image](https://user-images.githubusercontent.com/117035260/232291160-c7886700-5d43-4139-bab8-8515a5f5b24a.png)
+![image](https://user-images.githubusercontent.com/117035260/232291196-22cd6c3c-771b-4678-880b-75f6e67b9f36.png)
