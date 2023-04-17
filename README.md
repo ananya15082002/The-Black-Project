@@ -22,7 +22,6 @@ The model trains a neural network using the training data and achieves a reasona
 Our aim would be increasing the accuracy of Saarthi and making it more intelligent, also it would be able to provide personalized health recommendations based on an individual's health history and lifestyle of each and every users.
 Secondly, it would be connecting patients to doctors and residents, so that it can  ensure that patients receive the best possible care and support, regardless of their location or the time of day. This can be especially beneficial for patients in remote or underserved areas who may have limited access to healthcare resources.
 
-
-![image](https://user-images.githubusercontent.com/117035260/232274650-1a65abab-bb49-480e-814b-ef84d63cf850.png)
+![image](https://user-images.githubusercontent.com/117035260/232586269-8ccc1ed8-74df-4e76-bbec-f34781ab2e65.png)
 ![image](https://user-images.githubusercontent.com/117035260/232291160-c7886700-5d43-4139-bab8-8515a5f5b24a.png)
 ![image](https://user-images.githubusercontent.com/117035260/232291196-22cd6c3c-771b-4678-880b-75f6e67b9f36.png)
