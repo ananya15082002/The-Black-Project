@@ -19,8 +19,8 @@ The model also includes functions for speech recognition and text-to-speech conv
 The model trains a neural network using the training data and achieves a reasonable accuracy on the test data. It also provides a function to predict the intent of user inputs and achieves reasonable accuracy on the test data and produces the resonable output. The model also includes functions for speech recognition and text-to-speech conversion, allowing the user to interact with the model through speech.
 
 #Future Insights:
-Saarthi would be able to provide personalized health recommendations based on an individual's health history and lifestyle of each and every users.
-Also, it would be connecting patients to doctors and residents, so that it can  ensure that patients receive the best possible care and support, regardless of their location or the time of day. This can be especially beneficial for patients in remote or underserved areas who may have limited access to healthcare resources.
+Our aim would be increasing the accuracy of Saarthi and making it more intelligent, also it would be able to provide personalized health recommendations based on an individual's health history and lifestyle of each and every users.
+Secondly, it would be connecting patients to doctors and residents, so that it can  ensure that patients receive the best possible care and support, regardless of their location or the time of day. This can be especially beneficial for patients in remote or underserved areas who may have limited access to healthcare resources.
 
 
 ![image](https://user-images.githubusercontent.com/117035260/232274650-1a65abab-bb49-480e-814b-ef84d63cf850.png)
