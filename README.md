@@ -1,10 +1,10 @@
 # The-Black-Project
-# Made for GeeksForGeeks SolveForIndia Hackathon under the theme HealthCare
+#Made for GeeksForGeeks SolveForIndia Hackathon under the theme HealthCare
 
 # Saarthi : Virtual Health Assistant
 
 
-# Saarthi : "Because every Arjun in dilemma needs a Saarthi like Krishna who can show you the right path."
+#Saarthi : "Because every Arjun in dilemma needs a Saarthi like Krishna who can show you the right path."
 
 Frequently, individuals may be afflicted with a condition, yet they may not be aware of the appropriate actions to take initially. In such cases, they often panic and hastily attempt to reach out to a hospital or search their conditions in Google but it often leds to show the severe cases which are not correct, and the level of panic amond them increases.
 
